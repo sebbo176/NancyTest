@@ -18,3 +18,7 @@ C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\bin\Debug\Nancy.Owin.x
 C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
 C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\obj\Debug\Api.dll
 C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\obj\Debug\Api.pdb
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\bin\Debug\Microsoft.Owin.dll
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\bin\Debug\Microsoft.Owin.xml
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
