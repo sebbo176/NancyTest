@@ -12,7 +12,7 @@ namespace Api
     {
         public Server()
         {
-            Get["/Api/Users"] = p => "Hejsan världen";
+            Get["/Hello"] = p => "Hi there";
         }
     }
 }
