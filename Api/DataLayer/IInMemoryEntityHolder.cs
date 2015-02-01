@@ -6,5 +6,6 @@ namespace DataLayer
     {
         DomainEntity Add(DomainEntity entity);
         List<DomainEntity> GetAll();
+        DomainEntity GetById(string id);
     }
 }
