@@ -10,7 +10,7 @@ namespace Server
     {
         public ApiModule()
         {
-            Get["/"] = p => "Hi there";
+            Get["/hello"] = p => "Hi there";
         }
     }
 }
