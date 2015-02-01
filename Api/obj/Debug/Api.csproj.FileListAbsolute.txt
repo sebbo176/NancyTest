@@ -22,3 +22,4 @@ C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\bin\Debug\Microsoft.Ow
 C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
 C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\bin\Debug\Microsoft.Owin.xml
 C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\bin\Debug\Web.config
