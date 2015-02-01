@@ -1,0 +1,7 @@
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\bin\Debug\Api.dll
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\bin\Debug\Api.pdb
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\bin\Debug\Nancy.dll
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\bin\Debug\Nancy.xml
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\obj\Debug\Api.dll
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\obj\Debug\Api.pdb
