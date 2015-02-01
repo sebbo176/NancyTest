@@ -8,6 +8,8 @@ namespace Frontend
         {
             Get["/Hello"] = p => "Hi there! :)";
             Get["/"] = p => "Battlestation operational";
+
+
         }
     }
 }

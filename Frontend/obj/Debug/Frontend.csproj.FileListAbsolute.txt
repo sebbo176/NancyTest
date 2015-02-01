@@ -13,3 +13,5 @@ C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\bin\Nancy.Owin.xm
 C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\obj\Debug\Frontend.csprojResolveAssemblyReference.cache
 C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\obj\Debug\Frontend.dll
 C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\obj\Debug\Frontend.pdb
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\bin\DataLayer.dll
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\bin\DataLayer.pdb
