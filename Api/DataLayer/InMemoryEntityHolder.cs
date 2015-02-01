@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 
 namespace DataLayer
 {
@@ -20,6 +21,11 @@ namespace DataLayer
         public List<DomainEntity> GetAll()
         {
             return _dataList;
+        }
+
+        public DomainEntity GetById(string id)
+        {
+            return _dataList.SingleOrDefault(c => c.Id == id);
         }
     }
 }

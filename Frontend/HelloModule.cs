@@ -2,14 +2,12 @@
 
 namespace Frontend
 {
-    public class ApiModule : NancyModule
+    public class HelloModule : NancyModule
     {
-        public ApiModule()
+        public HelloModule()
         {
             Get["/Hello"] = p => "Hi there! :)";
             Get["/"] = p => "Battlestation operational";
-
-
         }
     }
 }

@@ -1,0 +1,4 @@
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\DataLayer\bin\Release\DataLayer.dll
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\DataLayer\obj\Release\DataLayer.dll
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\DataLayer\obj\Release\DataLayer.pdb
