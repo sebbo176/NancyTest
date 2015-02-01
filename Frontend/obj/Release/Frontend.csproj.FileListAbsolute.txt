@@ -1,0 +1,15 @@
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\bin\Frontend.dll.config
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\bin\Frontend.dll
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\bin\Frontend.pdb
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\bin\Microsoft.Owin.dll
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\bin\Nancy.dll
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\bin\Nancy.Owin.dll
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\bin\Owin.dll
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\bin\Microsoft.Owin.xml
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\bin\Nancy.xml
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\bin\Nancy.Owin.xml
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\obj\Release\Frontend.dll
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\obj\Release\Frontend.pdb
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Frontend\obj\Release\Frontend.csprojResolveAssemblyReference.cache

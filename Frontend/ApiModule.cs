@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading;
-using System.Web;
-using Nancy;
+﻿using Nancy;
 
 namespace Frontend
 {
@@ -11,7 +6,7 @@ namespace Frontend
     {
         public ApiModule()
         {
-            Get["/Hello"] = parameters => "Hi there! :)";
+            Get["/Hello"] = p => "Hi there! :)";
             Get["/"] = p => "Battlestation operational";
         }
     }
