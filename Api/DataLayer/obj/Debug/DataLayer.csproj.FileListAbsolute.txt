@@ -2,3 +2,4 @@ C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\DataLayer\bin\Debug\Da
 C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\DataLayer\bin\Debug\DataLayer.pdb
 C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\DataLayer\obj\Debug\DataLayer.dll
 C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\sebastian.bolling\Documents\GitHub\NancyTest\Api\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
